@@ -12,3 +12,7 @@ C:\temp\IQMetrix\Reference\PokerChallengeRef\bin\Debug\PokerChallengeRef.pdb
 C:\temp\IQMetrix\Reference\PokerChallengeRef\obj\Debug\PokerChallengeRef.csprojResolveAssemblyReference.cache
 C:\temp\IQMetrix\Reference\PokerChallengeRef\obj\Debug\PokerChallengeRef.dll
 C:\temp\IQMetrix\Reference\PokerChallengeRef\obj\Debug\PokerChallengeRef.pdb
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\csharp-poker-hand-showdown\Reference\PokerChallengeRef\bin\Debug\PokerChallengeRef.dll
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\csharp-poker-hand-showdown\Reference\PokerChallengeRef\bin\Debug\PokerChallengeRef.pdb
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\csharp-poker-hand-showdown\Reference\PokerChallengeRef\obj\Debug\PokerChallengeRef.dll
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\csharp-poker-hand-showdown\Reference\PokerChallengeRef\obj\Debug\PokerChallengeRef.pdb
