@@ -1,0 +1,29 @@
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\Poker\NewPokerChallenge\PokerChallenge\PokerChallenge\bin\Debug\PokerChallengeDemo.exe.config
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\Poker\NewPokerChallenge\PokerChallenge\PokerChallenge\bin\Debug\PokerChallengeDemo.exe
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\Poker\NewPokerChallenge\PokerChallenge\PokerChallenge\bin\Debug\PokerChallengeDemo.pdb
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\Poker\NewPokerChallenge\PokerChallenge\PokerChallenge\obj\Debug\PokerChallengeDemo.exe
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\Poker\NewPokerChallenge\PokerChallenge\PokerChallenge\obj\Debug\PokerChallengeDemo.pdb
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\Poker\NewPokerChallenge\PokerChallenge\PokerChallengeDemo\bin\Debug\PokerChallengeDemo.exe.config
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\Poker\NewPokerChallenge\PokerChallenge\PokerChallengeDemo\obj\Debug\PokerChallengeDemo.exe
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\Poker\NewPokerChallenge\PokerChallenge\PokerChallengeDemo\obj\Debug\PokerChallengeDemo.pdb
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\Poker\NewPokerChallenge\PokerChallenge\PokerChallengeDemo\obj\Debug\PokerChallengeDemo.csprojResolveAssemblyReference.cache
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\Poker\NewPokerChallenge\PokerChallenge\PokerChallengeDemo\bin\Debug\PokerChallengeDemo.exe
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\Poker\NewPokerChallenge\PokerChallenge\PokerChallengeDemo\bin\Debug\PokerChallengeDemo.pdb
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\Poker\NewPokerChallenge\PokerChallenge\PokerChallengeDemo\bin\Debug\PokerChallengeRef.pdb
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\Poker\NewPokerChallenge\PokerChallenge\PokerChallengeDemo\bin\Debug\PokerChallengeRef.dll
+C:\Temp\PokerChallenge\PokerChallengeDemo\bin\Debug\PokerChallengeDemo.exe.config
+C:\Temp\PokerChallenge\PokerChallengeDemo\bin\Debug\PokerChallengeDemo.exe
+C:\Temp\PokerChallenge\PokerChallengeDemo\bin\Debug\PokerChallengeDemo.pdb
+C:\Temp\PokerChallenge\PokerChallengeDemo\bin\Debug\PokerChallengeRef.dll
+C:\Temp\PokerChallenge\PokerChallengeDemo\bin\Debug\PokerChallengeRef.pdb
+C:\Temp\PokerChallenge\PokerChallengeDemo\obj\Debug\PokerChallengeDemo.csprojResolveAssemblyReference.cache
+C:\Temp\PokerChallenge\PokerChallengeDemo\obj\Debug\PokerChallengeDemo.exe
+C:\Temp\PokerChallenge\PokerChallengeDemo\obj\Debug\PokerChallengeDemo.pdb
+C:\temp\IQMetrix\PokerChallengeDemo\bin\Debug\PokerChallengeDemo.exe.config
+C:\temp\IQMetrix\PokerChallengeDemo\obj\Debug\PokerChallengeDemo.exe
+C:\temp\IQMetrix\PokerChallengeDemo\obj\Debug\PokerChallengeDemo.pdb
+C:\temp\IQMetrix\PokerChallengeDemo\bin\Debug\PokerChallengeDemo.exe
+C:\temp\IQMetrix\PokerChallengeDemo\bin\Debug\PokerChallengeDemo.pdb
+C:\temp\IQMetrix\PokerChallengeDemo\bin\Debug\PokerChallengeRef.dll
+C:\temp\IQMetrix\PokerChallengeDemo\bin\Debug\PokerChallengeRef.pdb
+C:\temp\IQMetrix\PokerChallengeDemo\obj\Debug\PokerChallengeDemo.csprojResolveAssemblyReference.cache

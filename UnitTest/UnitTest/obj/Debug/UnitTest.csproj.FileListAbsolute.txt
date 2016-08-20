@@ -1,0 +1,14 @@
+C:\Temp\PokerChallenge\UnitTest\UnitTest\bin\Debug\UnitTest.dll
+C:\Temp\PokerChallenge\UnitTest\UnitTest\bin\Debug\UnitTest.pdb
+C:\Temp\PokerChallenge\UnitTest\UnitTest\bin\Debug\PokerChallengeRef.dll
+C:\Temp\PokerChallenge\UnitTest\UnitTest\bin\Debug\PokerChallengeRef.pdb
+C:\Temp\PokerChallenge\UnitTest\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Temp\PokerChallenge\UnitTest\UnitTest\obj\Debug\UnitTest.dll
+C:\Temp\PokerChallenge\UnitTest\UnitTest\obj\Debug\UnitTest.pdb
+C:\temp\IQMetrix\UnitTest\UnitTest\bin\Debug\UnitTest.dll
+C:\temp\IQMetrix\UnitTest\UnitTest\bin\Debug\UnitTest.pdb
+C:\temp\IQMetrix\UnitTest\UnitTest\bin\Debug\PokerChallengeRef.dll
+C:\temp\IQMetrix\UnitTest\UnitTest\bin\Debug\PokerChallengeRef.pdb
+C:\temp\IQMetrix\UnitTest\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\temp\IQMetrix\UnitTest\UnitTest\obj\Debug\UnitTest.dll
+C:\temp\IQMetrix\UnitTest\UnitTest\obj\Debug\UnitTest.pdb

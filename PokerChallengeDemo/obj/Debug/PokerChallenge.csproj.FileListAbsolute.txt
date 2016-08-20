@@ -1,0 +1,10 @@
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\Poker\PokerChallenge\PokerChallenge\bin\Debug\PokerChallenge.exe.config
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\Poker\PokerChallenge\PokerChallenge\bin\Debug\PokerChallenge.exe
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\Poker\PokerChallenge\PokerChallenge\bin\Debug\PokerChallenge.pdb
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\Poker\PokerChallenge\PokerChallenge\obj\Debug\PokerChallenge.exe
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\Poker\PokerChallenge\PokerChallenge\obj\Debug\PokerChallenge.pdb
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\Poker\NewPokerChallenge\PokerChallenge\PokerChallenge\bin\Debug\PokerChallenge.exe.config
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\Poker\NewPokerChallenge\PokerChallenge\PokerChallenge\obj\Debug\PokerChallenge.exe
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\Poker\NewPokerChallenge\PokerChallenge\PokerChallenge\obj\Debug\PokerChallenge.pdb
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\Poker\NewPokerChallenge\PokerChallenge\PokerChallenge\bin\Debug\PokerChallenge.exe
+C:\Users\User-Admin\Google Drive\Workspace\Windows\Research\Poker\NewPokerChallenge\PokerChallenge\PokerChallenge\bin\Debug\PokerChallenge.pdb
